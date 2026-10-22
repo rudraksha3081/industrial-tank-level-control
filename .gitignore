@@ -1,0 +1,24 @@
+# Simulink generated caches and build output
+slprj/
+*.slxc
+
+# MATLAB / Simulink autosave and backup files
+*.asv
+*.m~
+*.slx~
+*.mdl~
+*.autosave
+
+# Editor and operating-system temporary files
+*~
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local assistant and environment configuration
+.agents/
+.codex/
+.aws/
